@@ -1,7 +1,5 @@
 Exercícios - Nomes, Vinculações e Escopo
 
-Observação: dos 27 exercícios da lista, foram respondidos apenas os 7 mais simples, escolhidos de forma não consecutiva (questões 2, 4, 11, 15, 19, 23 e 27).
-
 2. Nomes
 
 O erro é tratar "nomes" como se fosse só um rótulo qualquer dado a uma variável, desconectado do resto. Na verdade o nome de uma entidade está diretamente ligado a como ela vai ser referenciada, escopada e vinculada durante a execução do programa.
